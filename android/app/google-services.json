@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099003386496",
+    "firebase_url": "https://touchh-4bce5-default-rtdb.firebaseio.com",
+    "project_id": "touchh-4bce5",
+    "storage_bucket": "touchh-4bce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099003386496:android:552e6429ae7d4340bfe465",
+        "android_client_info": {
+          "package_name": "com.touchhapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099003386496-2nc7qi2k1q32jfsm4d7herli90t4o0im.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw01iT0iebRh2Hm7eX9ndYBYpz8d8DTaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099003386496-2nc7qi2k1q32jfsm4d7herli90t4o0im.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1099003386496-9rh6tiomruh2vtqkdth5fm1md7mfs48g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.touchh.app",
+                "app_store_id": "1630662736"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1099003386496-9rh6tiomruh2vtqkdth5fm1md7mfs48g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1099003386496-9rh6tiomruh2vtqkdth5fm1md7mfs48g</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBwl2PZA_xrQgrAN4EPTftvhqB8LrgmfRg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1099003386496</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.touchh.app</string>
+	<key>PROJECT_ID</key>
+	<string>touchh-4bce5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>touchh-4bce5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1099003386496:ios:67366f3c6a821be0bfe465</string>
+</dict>
+</plist>
